@@ -3,13 +3,13 @@
 
 ![VOID40](https://i.imgur.com/WZ8EVJY.jpg)
 
-The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firmware on a Pro Micro controller. The case is designed to fit the bed of a stock Ender 3 when the parts are rotated 45 degrees and the skirt/brim is disabled in the slicers settings.
+The VOID40 is a 3d printed, handwired, 40% ortholinear keyboard running QMK Firmware on a Pro Micro controller. The case is designed to fit the bed of a stock Ender 3 when the parts are rotated 45 degrees and the skirt/brim is disabled in the slicer's settings.
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
 
 You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is (if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
 
-Dont overtighten the screws as the posts could break off and the threads might get stripped.
+Don't overtighten the screws as the posts could break off and the threads might get stripped.
 
 # Handwiring guide
 
@@ -65,7 +65,7 @@ The web version of Vial is available at [vial.rocks](https://vial.rocks/); it ru
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void40). Edit them to suit your own needs and build the firmware following the QMK docs.
 
-If you plan on using the VIA configurator dont forget to download the json definitions file linked in this repository.
+If you plan on using the VIA configurator don't forget to download the json definitions file linked in this repository.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
